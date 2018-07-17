@@ -1,0 +1,10 @@
+- model: users.group
+  pk: 1
+  fields:
+    name: group1
+    description: test
+- model: users.group
+  pk: 2
+  fields:
+    name: group2
+    description: test

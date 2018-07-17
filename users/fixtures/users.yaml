@@ -1,0 +1,18 @@
+- model: users.user
+  pk: 1
+  fields:
+    bmi: 20.0
+    age: 10
+    group: 1
+- model: users.user
+  pk: 2
+  fields:
+    bmi: 19.1
+    age: 20
+    group: 1
+- model: users.user
+  pk: 3
+  fields:
+    bmi: 21.9
+    age: 30
+    group: 1
