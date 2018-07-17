@@ -6,8 +6,8 @@ Of course, you can use pip instead of pipenv.
 ```
 $ pipenv install
 $ pipenv shell
-$ python manage.py migrate
 $ docker run -d --name postgres -p 5432:5432 postgres:10.3-alpine
+$ python manage.py migrate
 ```
 
 ## Test
